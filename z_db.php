@@ -15,5 +15,5 @@ $art_bonus="10";
 //Set Daily Login Bonus Here (It must be only Number)
 $login_bonus="10";
 //Set Currency Symbol for daily login bonus Here
-$money="$";
+$money="Shs";
 ?>
